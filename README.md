@@ -21,7 +21,7 @@ my profile
 <p align="left">
   <!-- Certifications Button -->
   <a href="https://www.linkedin.com/in/prince-kumar-yadav-715305260/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/ 🎓%20View My %20Certifications-FFA500?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Certifications" />
+   
   </a>
   <!-- Spacer between buttons -->
   &nbsp;&nbsp;&nbsp;
@@ -37,7 +37,7 @@ my profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://t.me/MeSumit" target="blank"><img align="center" src="https://github.com/SumeetCEH/SumeetCEH/blob/cd8d3c0fa81f3e911a7a32e2e9e5343a86e654f4/SumeetTelegram.gif" alt="https://t.me/MeSumit" height="30" width="40" /></a>
+  <a href="https://t.me/PrinceKumarYadav07" target="blank"><img align="center" </a>
   <a href="https://linkedin.com/in/cybersumeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cybersumeet" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/https://youtube.com/@srajfilms?si=9fzihfglflorr4lt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@srajfilms?si=9fzihfglflorr4lt" height="30" width="40" /></a>
 </p>
